@@ -1,0 +1,35 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+ ul{
+    list-style-type: lower-roman;
+}
+figcaption{
+    border: black;
+    border-bottom: 10px;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+h2{
+    padding: 0;
+    margin: 10px;
+    color: blue;
+}
+
+p{
+    text-align: justify;
+    text-align: left;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+}
